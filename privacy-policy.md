@@ -1,4 +1,4 @@
-##Privacy Policy
+## Privacy Policy
 
 This site does not share personal information with third parties nor do we store any information about your visit to this site other than to analyse and optimise your content and reading experience through the use of Cookies, Geo Location info and Google Analytics.
 
